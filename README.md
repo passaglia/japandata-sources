@@ -1,6 +1,6 @@
 ## Japandata-Mirror
 
-A mirror of data used in the [japandata](github.com/passaglia/japandata) package, in case the original data sources become unavailable. For more information, see that package. Licensing information is follows.
+A mirror of data used in the upcoming [japandata](github.com/passaglia/japandata) package, in case the original data sources become unavailable. For more information, see that package. Licensing information is follows.
 
 # Map
 
