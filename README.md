@@ -1,6 +1,6 @@
 # Japandata-Sources
 
-A mirror of data used in the upcoming [japandata](github.com/passaglia/japandata) package, in case the original data sources become unavailable. For more information about these datasets, see that package. Licensing information is follows.
+Data used by the [japandata](https://github.com/passaglia/japandata) package. For more information about these datasets, see that repository. The original data sources and their licensing information are listed below.
 
 ## Map
 
