@@ -2,7 +2,7 @@
 
 Data used by the [**JapanData**](https://github.com/passaglia/japandata) package. For more information about these datasets, see that repository. The original data sources and their licensing information are listed below.
 
-## Map
+## Maps
 
 [Asanobu Kitamoto, ROIS-DS Center for Open Data in the Humanities, CC BY-SA 4.0](https://geoshape.ex.nii.ac.jp/city/choropleth/).
 
@@ -15,4 +15,7 @@ Data used by the [**JapanData**](https://github.com/passaglia/japandata) package
 
 [Ministry of Internal Affairs](https://www.soumu.go.jp/main_sosiki/jichi_zeisei/czaisei/czaisei_seido/furusato/archive/), [CC BY 4.0 International](https://www.soumu.go.jp/menu_kyotsuu/policy/tyosaku.html#tyosakuken).
 
+## Indices 
+
+[Ministry of Internal Affairs](https://www.soumu.go.jp/iken/shihyo_ichiran.html/), [CC BY 4.0 International](https://www.soumu.go.jp/menu_kyotsuu/policy/tyosaku.html#tyosakuken).
 
